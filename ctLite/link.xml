@@ -1,0 +1,6 @@
+<linker>
+    <assembly fullname="Newtonsoft.Json">
+        <type fullname="Newtonsoft.Json.Converters.StringEnumConverter" preserve="all" />
+        <type fullname="Newtonsoft.Json.Serialization.DefaultContractResolver/EnumerableDictionaryWrapper`2" preserve="all" />
+    </assembly>
+</linker>
